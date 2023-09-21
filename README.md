@@ -1,6 +1,6 @@
 # Hi, I'm Kewal! 👋
 
-# Smart India Hackathon 2022<br>Team: CodeUAVs
+# Smart India Hackathon 2022<br>Team CodeUAVs: Top 10 at College Level
 
 ## Problem Statement: Measurement of Coastal Topography & Marking High & Low Tide using UAVs
 
