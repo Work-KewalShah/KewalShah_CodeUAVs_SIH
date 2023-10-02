@@ -37,9 +37,16 @@ Our solution leveraged the following technologies and components:
   Quadcopter Prototype
 </p>
 
-## Acknowledgment
+## Acknowledgements
 
 Special thanks to Team CodeUAVs for their dedicated efforts and valuable contributions to the success of this project. Teamwork and collaboration played a vital role in achieving our goals.
+- Team Members:
+  - Siddhi Marvaniya  ([siddhimarvaniya@gmail.com](mailto:siddhimarvaniya@gmail.com))
+  - Niraj Lalwani  ([niraj311202@gmail.com](mailto:niraj311202@gmail.com))
+  - Anuj Shukla  ([anujmshukla2002@gmail.com](mailto:anujmshukla2002@gmail.com))
+  - Smit Vidja  ([smitvidja2604@gmail.com](mailto:smitvidja2604@gmail.com))
+
+For inquiries, collaborations, or to learn more about our projects, please don't hesitate to contact us. We look forward to connecting with you!
 
 ## Contact Me
 
